@@ -1,5 +1,5 @@
 #include "../includes/Character.hpp"
-
+ /* High level Character class */
 Character::Character():m_health(100), m_name("NO_NAME") {
 }
 
